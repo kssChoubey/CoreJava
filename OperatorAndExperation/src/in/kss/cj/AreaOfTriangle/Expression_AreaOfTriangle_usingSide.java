@@ -28,12 +28,6 @@ public class Expression_AreaOfTriangle_usingSide {
 		area=Math.sqrt(s*(s-side1)*(s-side2)*(s-side3));
 		
 		System.out.println("Area of Triangle is "+area);
-		
-	}
-
-	private static Scanner Scanner(InputStream in) {
-		// TODO Auto-generated method stub
-		return null;
 	}
 
 }
